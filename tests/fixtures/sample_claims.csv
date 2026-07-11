@@ -1,0 +1,5 @@
+user_id,image_paths,user_claim,claim_object,claim_status
+u_001,images/case_001/img_1.jpg;images/case_001/img_2.jpg,User says the front bumper got dented in a parking lot.,car,supported
+u_002,images/case_002/img_1.jpg,User claims the laptop screen is cracked.,laptop,supported
+u_999,images/case_003/img_1.jpg;images/case_003/img_missing.jpg,User claims the package box arrived crushed.,package,not_enough_information
+u_003,images/case_004/img_1.jpg,User claims something happened to their item.,drone,not_enough_information

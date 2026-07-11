@@ -1,0 +1,6 @@
+requirement_id,claim_object,applies_to,minimum_image_evidence
+req_001,car,dent,At least one clear photo of the damaged panel from a readable distance.
+req_002,car,scratch,A close-up photo showing the scratch length and depth.
+req_003,laptop,crack,A clear photo of the screen powered on or off showing the crack.
+req_004,package,crushed_packaging,Photos of all four sides showing the crushed area.
+req_005,all,water_damage,At least one photo showing visible moisture or staining.

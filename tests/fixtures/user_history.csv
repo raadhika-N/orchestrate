@@ -1,0 +1,4 @@
+user_id,past_claim_count,accept_claim,manual_review_claim,rejected_claim,last_90_days_claim_count,history_flags,history_summary
+u_001,3,2,1,0,1,none,Generally reliable claimant with no rejected claims.
+u_002,8,4,2,2,3,frequent_claimant,Above-average claim frequency with some rejections.
+u_003,0,0,0,0,0,none,No prior claims on file.
