@@ -319,9 +319,7 @@ This project can be run entirely using free services.
 
 ---
 
-# 📜 License
 
-Licensed under the **MIT License**.
 
 ---
 
